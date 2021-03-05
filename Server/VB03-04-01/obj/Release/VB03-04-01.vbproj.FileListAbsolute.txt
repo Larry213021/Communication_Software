@@ -1,0 +1,4 @@
+C:\Users\Larrywu\Desktop\VB03-04-01\VB03-04-01\obj\Release\VB03_04_01.Form1.resources
+C:\Users\Larrywu\Desktop\VB03-04-01\VB03-04-01\obj\Release\VB03_04_01.Resources.resources
+C:\Users\Larrywu\Desktop\VB03-04-01\VB03-04-01\obj\Release\VB03-04-01.vbproj.GenerateResource.Cache
+C:\Users\Larrywu\Desktop\VB03-04-01\VB03-04-01\obj\Release\VB03-04-01.xml
