@@ -1,0 +1,66 @@
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\VB03-04-02\VB03-04-02\bin\Debug\VB03-04-02.exe
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\VB03-04-02\VB03-04-02\bin\Debug\VB03-04-02.pdb
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\VB03-04-02\VB03-04-02\bin\Debug\VB03-04-02.xml
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\VB03-04-02\VB03-04-02\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\VB03-04-02\VB03-04-02\obj\Debug\VB03_04_02.Form1.resources
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\VB03-04-02\VB03-04-02\obj\Debug\VB03_04_02.Resources.resources
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.vbproj.GenerateResource.Cache
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.exe
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.xml
+C:\Users\Benny\Documents\Visual Studio 2008\Projects\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.pdb
+D:\寫作\Network\書附光碟\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.exe
+D:\寫作\Network\書附光碟\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.xml
+D:\寫作\Network\書附光碟\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.pdb
+D:\寫作\Network\書附光碟\VB03-04-02\VB03-04-02\bin\Debug\VB03-04-02.exe
+D:\寫作\Network\書附光碟\VB03-04-02\VB03-04-02\bin\Debug\VB03-04-02.pdb
+D:\寫作\Network\書附光碟\VB03-04-02\VB03-04-02\bin\Debug\VB03-04-02.xml
+D:\寫作\Network\書附光碟\VB03-04-02\VB03-04-02\obj\Debug\ResolveAssemblyReference.cache
+D:\寫作\Network\書附光碟\VB03-04-02\VB03-04-02\obj\Debug\VB03_04_02.Form1.resources
+D:\寫作\Network\書附光碟\VB03-04-02\VB03-04-02\obj\Debug\VB03_04_02.Resources.resources
+D:\寫作\Network\書附光碟\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.vbproj.GenerateResource.Cache
+C:\Users\Larrywu\Desktop\schoolHW\TCPIP\chap3-example\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.exe
+C:\Users\Larrywu\Desktop\schoolHW\TCPIP\chap3-example\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.xml
+C:\Users\Larrywu\Desktop\schoolHW\TCPIP\chap3-example\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.pdb
+C:\Users\Larrywu\Desktop\schoolHW\TCPIP\chap3-example\VB03-04-02\VB03-04-02\bin\Debug\VB03-04-02.exe
+C:\Users\Larrywu\Desktop\schoolHW\TCPIP\chap3-example\VB03-04-02\VB03-04-02\bin\Debug\VB03-04-02.pdb
+C:\Users\Larrywu\Desktop\schoolHW\TCPIP\chap3-example\VB03-04-02\VB03-04-02\bin\Debug\VB03-04-02.xml
+C:\Users\Larrywu\Desktop\schoolHW\TCPIP\chap3-example\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.vbprojResolveAssemblyReference.cache
+C:\Users\Larrywu\Desktop\schoolHW\TCPIP\chap3-example\VB03-04-02\VB03-04-02\obj\Debug\VB03_04_02.Form1.resources
+C:\Users\Larrywu\Desktop\schoolHW\TCPIP\chap3-example\VB03-04-02\VB03-04-02\obj\Debug\VB03_04_02.Resources.resources
+C:\Users\Larrywu\Desktop\schoolHW\TCPIP\chap3-example\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.vbproj.GenerateResource.Cache
+C:\Users\Larrywu\Desktop\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.exe
+C:\Users\Larrywu\Desktop\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.xml
+C:\Users\Larrywu\Desktop\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.pdb
+C:\Users\Larrywu\Desktop\VB03-04-02\VB03-04-02\bin\Debug\VB03-04-02.exe
+C:\Users\Larrywu\Desktop\VB03-04-02\VB03-04-02\bin\Debug\VB03-04-02.pdb
+C:\Users\Larrywu\Desktop\VB03-04-02\VB03-04-02\bin\Debug\VB03-04-02.xml
+C:\Users\Larrywu\Desktop\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.vbprojResolveAssemblyReference.cache
+C:\Users\Larrywu\Desktop\VB03-04-02\VB03-04-02\obj\Debug\VB03_04_02.Form1.resources
+C:\Users\Larrywu\Desktop\VB03-04-02\VB03-04-02\obj\Debug\VB03_04_02.Resources.resources
+C:\Users\Larrywu\Desktop\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.vbproj.GenerateResource.Cache
+C:\Users\Larrywu\Desktop\通訊\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.exe
+C:\Users\Larrywu\Desktop\通訊\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.xml
+C:\Users\Larrywu\Desktop\通訊\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.pdb
+C:\Users\Larrywu\Desktop\通訊\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.vbprojResolveAssemblyReference.cache
+C:\Users\Larrywu\Desktop\通訊\VB03-04-02\VB03-04-02\obj\Debug\VB03_04_02.Form1.resources
+C:\Users\Larrywu\Desktop\通訊\VB03-04-02\VB03-04-02\obj\Debug\VB03_04_02.Resources.resources
+C:\Users\Larrywu\Desktop\通訊\VB03-04-02\VB03-04-02\obj\Debug\VB03-04-02.vbproj.GenerateResource.Cache
+C:\Users\Larrywu\Desktop\通訊\VB03-04-02\VB03-04-02\bin\Debug\VB03-04-02.exe
+C:\Users\Larrywu\Desktop\通訊\VB03-04-02\VB03-04-02\bin\Debug\VB03-04-02.pdb
+C:\Users\Larrywu\Desktop\通訊\VB03-04-02\VB03-04-02\bin\Debug\VB03-04-02.xml
+C:\Users\Larrywu\Desktop\通訊\客戶端\VB03-04-02\obj\Debug\VB03-04-02.exe
+C:\Users\Larrywu\Desktop\通訊\客戶端\VB03-04-02\obj\Debug\VB03-04-02.xml
+C:\Users\Larrywu\Desktop\通訊\客戶端\VB03-04-02\obj\Debug\VB03-04-02.pdb
+C:\Users\Larrywu\Desktop\通訊\客戶端\VB03-04-02\obj\Debug\VB03-04-02.vbprojResolveAssemblyReference.cache
+C:\Users\Larrywu\Desktop\通訊\客戶端\VB03-04-02\obj\Debug\VB03_04_02.Form1.resources
+C:\Users\Larrywu\Desktop\通訊\客戶端\VB03-04-02\obj\Debug\VB03_04_02.Resources.resources
+C:\Users\Larrywu\Desktop\通訊\客戶端\VB03-04-02\obj\Debug\VB03-04-02.vbproj.GenerateResource.Cache
+C:\Users\Larrywu\Desktop\通訊\客戶端\VB03-04-02\bin\Debug\VB03-04-02.exe
+C:\Users\Larrywu\Desktop\通訊\客戶端\VB03-04-02\bin\Debug\VB03-04-02.pdb
+C:\Users\Larrywu\Desktop\通訊\客戶端\VB03-04-02\bin\Debug\VB03-04-02.xml
+C:\Users\Larrywu\Desktop\schoolHW\通訊\通訊\通訊\客戶端\VB03-04-02\obj\Debug\VB03-04-02.exe
+C:\Users\Larrywu\Desktop\schoolHW\通訊\通訊\通訊\客戶端\VB03-04-02\obj\Debug\VB03-04-02.xml
+C:\Users\Larrywu\Desktop\schoolHW\通訊\通訊\通訊\客戶端\VB03-04-02\obj\Debug\VB03-04-02.pdb
+D:\Communication_Software\Client\VB03-04-02\obj\Debug\VB03-04-02.exe
+D:\Communication_Software\Client\VB03-04-02\obj\Debug\VB03-04-02.xml
+D:\Communication_Software\Client\VB03-04-02\obj\Debug\VB03-04-02.pdb
